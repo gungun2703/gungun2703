@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--## Hi there 👋 I'm Gungun
+<!--## Hi there 👋 I'm Anwesha Singh
 
 🎓 BTech CSE (2nd Year) | Targeting MS in USA/Europe  
 💻 Currently learning: DSA (LeetCode daily) • AI-ML
@@ -45,10 +45,10 @@ gungun = {
 
 | 🔨 Project | 📌 Status | 🛠 Tech |
 |---|---|---|
-| `everyday_dsa_practice` | 🟢 Active — Daily Commits | Python, LeetCode |
-| Power BI Dashboard | 🟡 Learning | Power BI, Excel |
+| `everyday_dsa_practice` | 🟢 Active — Daily Commits | Cpp , LeetCode |
+| Power BI Dashboard | 🟡 Learning | Power BI, SQL , DBMS |
 | Portfolio Website | 🔜 Coming Soon | HTML, CSS, JS |
-| Freelance Projects | 🔜 Q2 2025 | React, Fiverr |
+
 
 ---
 
@@ -60,7 +60,7 @@ gungun = {
 Arrays     ████████████░░░░░░░░  
 Strings    ████████░░░░░░░░░░░░  40%
 HashMap    █████░░░░░░░░░░░░░░░  25%
-Sorting    ████░░░░░░░░░░░░░░░░  20%
+Sorting    ████░░░░░░░░   ░░░░░  20%
 Recursion  ██░░░░░░░░░░░░░░░░░░  10%
 ```
 
@@ -102,12 +102,12 @@ Recursion  ██░░░░░░░░░░░░░░░░░░  10%
 
 ---
 
-## 🎯 2025 Goals
+## 🎯  Goals
 
 - [x] Start daily DSA practice on LeetCode
 - [x] Begin Power BI from scratch
 - [ ] Build first freelance project
-- [ ] Complete HTML → CSS → JS → React roadmap
+
 - [ ] Score 320+ on GRE
 - [ ] Land a research project / internship
 - [ ] Build a strong MS application profile
