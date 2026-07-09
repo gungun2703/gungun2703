@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--## Hi there 👋 I'm Anwesha Singh
+<!--## Hi there 👋 I'm Anwesha 
 
-🎓 BTech CSE (2nd Year) | Targeting MS in USA/Europe  
-💻 Currently learning: DSA (LeetCode daily) • AI-ML
-🌱 Building: everyday_dsa_practice (daily commits)  
+🎓 BTech CSE (3rd Year)  
+💻 Currently learning: Java | DSA (LeetCode daily) | AI-ML
+
 📫 Connect: www.linkedin.com/in/
-anwesha-singh-a5ba4024b
+anwesha-singh-cse
 ...
 
 
@@ -16,41 +16,37 @@ anwesha-singh-a5ba4024b
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... my skills , everyday practices , trying to improve myself in career
-- 🌱 I’m currently learning ... python , dsa , power bi , sql , making projects
-- 👯 I’m looking to collaborate on ... internships and guidance 
-- 🤔 I’m looking for help with ... mentors who can guide me 
-- 💬 Ask me about ... 
+- 🔭 I’m currently working on Java as my main programming language , alongside doing DSA , and core CSE Subjects.
+
+
+- 👯 I’m looking to collaborate on open source  .
+
+
 - 📫 How to reach me: ... anweshaaaa27@gmail.com  / 24cse005@gweca.ac.in
-- 😄 Pronouns: ... she/her
+
+
 - ⚡ Fun fact: ... I Love protien rich diets , and can prep good meals like your gym adviser!!
 -->
 ## 👩‍💻 About Me
 
 ```python
 gungun = {
-    "degree"     : "B.Tech Computer Science (2nd Year)",
-    "college"    : "Tier-3 college, Rajasthan",
-    "goal"       : "MS in CS — USA / Europe 🎓",
-    "currently"  : ["DSA on LeetCode (daily)", "Power BI", "Frontend Dev (HTML→React)"],
-    "languages"  : ["Python 🐍", "C++", "JavaScript (learning)"],
-    "building"   : "everyday_dsa_practice (daily GitHub commits)",
-    "mantra"     : "No peers, no mentors — just internet, curiosity & grind 💪"
+    "degree"     : "B.Tech Computer Science (3rd Year)",
+
+
+    "college"    : "Govt. Womens Engineering College Ajmer , Rajasthan",
+    
+    
+     "languages"  : ["Python 🐍", "Java ", "JavaScript (learning)"],
+
+    
+    "mantra"     : "Consistency💪"
 }
 ```
 
 ---
 
-## 🚀 What I'm Building Right Now
 
-| 🔨 Project | 📌 Status | 🛠 Tech |
-|---|---|---|
-| `everyday_dsa_practice` | 🟢 Active — Daily Commits | Cpp , LeetCode |
-| Power BI Dashboard | 🟡 Learning | Power BI, SQL , DBMS |
-| Portfolio Website | 🔜 Coming Soon | HTML, CSS, JS |
-
-
----
 
 ## 📈 DSA Progress Tracker
 
@@ -77,7 +73,7 @@ Recursion  ██░░░░░░░░░░░░░░░░░░  10%
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Oracle SQL Plus](https://img.shields.io/badge/Oracle_SQL_Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -102,23 +98,13 @@ Recursion  ██░░░░░░░░░░░░░░░░░░  10%
 
 ---
 
-## 🎯  Goals
 
-- [x] Start daily DSA practice on LeetCode
-- [x] Begin Power BI from scratch
-- [ ] Build first freelance project
-
-- [ ] Score 320+ on GRE
-- [ ] Land a research project / internship
-- [ ] Build a strong MS application profile
-
----
 
 ## 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwesha-singh-a5ba4024b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwesha-singh-cse)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-gungun2703-181717?style=for-the-badge&logo=github)](https://github.com/gungun2703)
 
