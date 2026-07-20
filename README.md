@@ -37,10 +37,10 @@ gungun = {
     "college"    : "Govt. Womens Engineering College Ajmer , Rajasthan",
     
     
-     "languages"  : ["Python 🐍", "Java ", "JavaScript (learning)"],
+     "languages"  : ["Python 🐍", "Java  ", "JavaScript (learning)"],
 
     
-    "mantra"     : "Consistency💪"
+    "mantra"     : "Consistency over anything"
 }
 ```
 
