@@ -9,9 +9,7 @@
 </p>
 
 <!-- ================= PROFILE IMAGE IN A ROUNDED/WAVE FRAME ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gungun2703/gungun2703/main/assets/profile.png" width="180" style="border-radius: 50%; border: 4px solid #EC4899;" alt="Anwesha Singh"/>
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/anwesha-singh-a5ba4024b"><img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
