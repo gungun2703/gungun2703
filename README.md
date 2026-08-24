@@ -1,121 +1,106 @@
-## Hi there , Anwesha here👋
+<!-- ================= WAVE HEADER WITH ANIMATED TEXT ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:BE185D&height=220&section=header&text=Hi%20there,%20I'm%20Anwesha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20gungun2703%20%E2%80%A2%20B.Tech%20CSE%20%40%20GWEC%20Ajmer&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-<!--## Hi there 👋 I'm Anwesha 
+<!-- ================= ANIMATED TYPING LINE ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Sophomore+studying+Computer+Science;Building+GlowSense+%F0%9F%92%A1+an+ML+skincare+app;Solving+DSA+daily+on+LeetCode+%F0%9F%94%A5;Aiming+for+an+MS+in+Data+Science+abroad" alt="Typing SVG" />
+</p>
 
-🎓 BTech CSE (3rd Year)  
-💻 Currently learning: Java | DSA (LeetCode daily) | AI-ML
+<!-- ================= PROFILE IMAGE IN A ROUNDED/WAVE FRAME ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gungun2703/gungun2703/main/assets/profile.png" width="180" style="border-radius: 50%; border: 4px solid #EC4899;" alt="Anwesha Singh"/>
+</p>
 
-📫 Connect: www.linkedin.com/in/
-anwesha-singh-cse
-...
+<p align="center">
+  <a href="https://linkedin.com/in/anwesha-singh-a5ba4024b"><img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/gungun2703"><img src="https://img.shields.io/badge/LeetCode-EC4899?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/gungun2703"><img src="https://img.shields.io/badge/GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=gungun2703&label=Profile%20Views&color=EC4899&style=for-the-badge" alt="profile views"/>
+</p>
 
+---
 
+### 👩‍💻 About Me
 
-![GitHub streak](https://streak-stats.demolab.com?user=gungun2703)
-**gungun2703/gungun2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Java as my main programming language , alongside doing DSA , and core CSE Subjects.
-
-
-- 👯 I’m looking to collaborate on open source  .
-
-
-- 📫 How to reach me: ... anweshaaaa27@gmail.com  / 24cse005@gweca.ac.in
-
-
-- ⚡ Fun fact: ... I Love protien rich diets , and can prep good meals like your gym adviser!!
--->
-## 👩‍💻 About Me
-
-```python
+```json
 gungun = {
-    "degree"     : "B.Tech Computer Science (3rd Year)",
-
-
-    "college"    : "Govt. Womens Engineering College Ajmer , Rajasthan",
-    
-    
-     "languages"  : ["Python 🐍", "Java  ", "JavaScript (learning)"],
-
-    
+    "degree"     : "B.Tech Computer Science & Engineering (BTU)",
+    "college"    : "Govt. Women's Engineering College, Ajmer, Rajasthan",
+    "graduating" : "2028",
+    "languages"  : ["Python 🐍", "Java", "JavaScript (learning)"],
+    "next_goal"  : "MS in Data Science — USA (primary), Canada (backup)",
     "mantra"     : "Consistency over anything"
 }
 ```
 
 ---
 
+### 🚀 Featured Project — GlowSense
 
+> An ML-driven skincare recommendation system that suggests products based on skin type & concerns.
 
-## 📈 DSA Progress Tracker
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-EC4899?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-EC4899?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-EC4899?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-EC4899?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-> 💡 Solving daily on LeetCode. Starting from arrays & strings, building to trees, graphs & DP.
+- 🧴 Data collection & database design for skincare product/ingredient data
+- 🐘 Migrating from Oracle SQL to PostgreSQL, learning Pandas along the way
+- 📌 [View Repo →](https://github.com/gungun2703/glowsense) <!-- update link if your repo name differs -->
+
+---
+
+### 📈 DSA Progress Tracker
+
+> Solving daily on **LeetCode** (Java) — from arrays & strings up through trees, graphs, game theory, sliding window, bitmask & binary search.
 
 ```
-Arrays     ████████████░░░░░░░░  
-Strings    ████████░░░░░░░░░░░░  40%
-HashMap    █████░░░░░░░░░░░░░░░  25%
-Sorting    ████░░░░░░░░   ░░░░░  20%
-Recursion  ██░░░░░░░░░░░░░░░░░░  10%
+Arrays      ████████████████░░░░  40%
+Strings     ████████████░░░░░░░░  40%
+HashMap     ████████░░░░░░░░░░░░  25%
+Sorting     ██████░░░░░░░░░░░░░░  20%
+Recursion   ███░░░░░░░░░░░░░░░░░  10%
 ```
-
-*(Updated manually as I level up 🔥)*
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Oracle SQL Plus](https://img.shields.io/badge/Oracle_SQL_Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+*(Updated manually as I level up 🔥 — tracked on the [`everyday_dsa_practice`](https://github.com/gungun2703/everyday_dsa_practice) repo)*
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gungun2703&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungun2703&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gungun2703&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-EC4899?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-EC4899?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-EC4899?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gungun2703&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=EC4899&text_color=ffffff&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gungun2703&hide_border=true&background=0D1117&ring=EC4899&fire=EC4899&currStreakLabel=EC4899&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9CA3AF" width="48%"/>
+</p>
 
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwesha-singh-cse)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-gungun2703-181717?style=for-the-badge&logo=github)](https://github.com/gungun2703)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gungun2703&bg_color=0D1117&color=EC4899&line=EC4899&point=ffffff&hide_border=true" width="97%"/>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE185D,100:F472B6&height=120&section=footer"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-
-*⭐ Star my repos if you find them helpful! Every connection counts on this solo journey.*
-
-</di
+<p align="center">
+  ⭐ Star my repos if you find them helpful! Every connection counts on this solo journey.
+</p>
