@@ -5,7 +5,7 @@
 
 <!-- ================= ANIMATED TYPING LINE ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Sophomore+studying+Computer+Science;Building+GlowSense+%F0%9F%92%A1+an+ML+skincare+app;Solving+DSA+daily+on+LeetCode+%F0%9F%94%A5;Aiming+for+an+MS+in+Data+Science+abroad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Pre-final+year+CS+student;Building+GlowSense+%F0%9F%92%A1+an+ML+skincare+app;Solving+DSA+daily+on+LeetCode+%F0%9F%94%A5;Aiming+for+an+MS+in+Data+Science+abroad" alt="Typing SVG" />
 </p>
 
 <!-- ================= PROFILE IMAGE IN A ROUNDED/WAVE FRAME ================= -->
@@ -26,11 +26,11 @@
 
 ```json
 gungun = {
-    "degree"     : "B.Tech Computer Science & Engineering (BTU)",
-    "college"    : "Govt. Women's Engineering College, Ajmer, Rajasthan",
+    "degree"     : "B.Tech Computer Science & Engineering ",
+    "college"    : "Govt. Women's Engineering College, Ajmer",
     "graduating" : "2028",
     "languages"  : ["Python 🐍", "Java", "JavaScript (learning)"],
-    "next_goal"  : "MS in Data Science — USA (primary), Canada (backup)",
+    
     "mantra"     : "Consistency over anything"
 }
 ```
